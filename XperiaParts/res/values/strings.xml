@@ -11,4 +11,16 @@
     <string name="cm_switch_description">Enables the BT.2020 Color Gamut and 10-bit Color</string>
 
     <string name="cm_dashboard_summary">Creator Mode Setting</string>
+
+    <!-- Content description of the previous button to bring user to the previous preview page. -->
+    <string name="previous_page_content_description">Previous</string>
+
+    <!-- Content description of the next button to bring user to the next preview page. -->
+    <string name="next_page_content_description">Next</string>
+    
+    <!-- Color mode image maximum size -->
+    <dimen name="color_mode_preview_height">320dp</dimen>
+
+    <!-- Content description of preview pager in colors preview -->
+    <string name="colors_viewpager_content_description">Color preview</string>
 </resources>
